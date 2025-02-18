@@ -95,3 +95,10 @@ Timestamps
 10:12:08 AI background jobs
 11:11:20 AI thumbnails
 11:43:21 End of part 1
+
+
+## cmd
+
+- bunx --bun shadcn@2.1.8 add --all
+
+@ alience - mean from the src directory
