@@ -54,25 +54,25 @@ Mux: https://mux.com/
 
 In this 24 hour tutorial split in 2 parts, you will learn how to create your very own Youtube clone. We will cover advanced topics such as Next 15 and React 19 with tRPC, prefetching in server components, leveraging suspense in client components, video processing, background jobs, AI features, and much more.
 
-Key Features:
-🎥 Advanced video player with quality controls
-🎬 Real-time video processing with Mux
-📝 Automatic video transcription
-🖼️ Smart thumbnail generation
-🤖 AI-powered title and description generation
-📊 Creator Studio with metrics
-🗂️ Custom playlist management
-📱 Responsive design across devices
-🔄 Multiple content feeds
-💬 Interactive comment system
-👍 Like and subscription system
-🎯 Watch history tracking
-🔐 Authentication system
-📦 Module-based architecture
-🗄️ PostgreSQL with DrizzleORM
-🚀 Next.js 15 & React 19
-🔄 tRPC for type-safe APIs
-💅 TailwindCSS & ShadcnUI styling
+### Key Features:
+-🎥 Advanced video player with quality controls
+-🎬 Real-time video processing with Mux
+-📝 Automatic video transcription
+-🖼️ Smart thumbnail generation
+-🤖 AI-powered title and description generation
+-📊 Creator Studio with metrics
+-🗂️ Custom playlist management
+-📱 Responsive design across devices
+-🔄 Multiple content feeds
+-💬 Interactive comment system
+-👍 Like and subscription system
+-🎯 Watch history tracking
+-🔐 Authentication system
+-📦 Module-based architecture
+-🗄️ PostgreSQL with DrizzleORM
+-🚀 Next.js 15 & React 19
+-🔄 tRPC for type-safe APIs
+-💅 TailwindCSS & ShadcnUI styling
 
 Timestamps
 00:00 Intro & Demo
