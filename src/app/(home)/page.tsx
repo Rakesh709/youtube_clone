@@ -6,8 +6,7 @@ import Image from "next/image";
 export default function Home() {
   return (
       <div>
-        <Image src="/logo.svg" height={50} width={50} alt="logo"/>
-        <p className="text-xl font-semibold">This is NewTube</p>
+        <h1 className="text-5xl text-gray-500">video load in the future!</h1>
       </div>
     
   );
