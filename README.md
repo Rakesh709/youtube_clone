@@ -102,3 +102,6 @@ Timestamps
 - bunx --bun shadcn@2.1.8 add --all
 
 @ alience - mean from the src directory
+
+## bunx --bun shadcn@2.1.8 add sidebar
+ - To over write the shadcn component
