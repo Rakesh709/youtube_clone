@@ -23,12 +23,12 @@
 			"com.tldraw.shape.geo": 10,
 			"com.tldraw.shape.note": 9,
 			"com.tldraw.shape.line": 5,
-			"com.tldraw.shape.frame": 0,
+			"com.tldraw.shape.frame": 1,
 			"com.tldraw.shape.arrow": 5,
 			"com.tldraw.shape.highlight": 1,
 			"com.tldraw.shape.embed": 4,
-			"com.tldraw.shape.image": 4,
-			"com.tldraw.shape.video": 2,
+			"com.tldraw.shape.image": 5,
+			"com.tldraw.shape.video": 3,
 			"com.tldraw.binding.arrow": 0
 		}
 	},
@@ -147,9 +147,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 1727.1022197932405,
-			"y": 2177.886034966561,
-			"lastActivityTimestamp": 1744441011379,
+			"x": -1423.4808405284275,
+			"y": -780.885738877616,
+			"lastActivityTimestamp": 0,
 			"meta": {}
 		},
 		{
@@ -169,7 +169,8 @@
 				"url": "",
 				"crop": null,
 				"flipX": false,
-				"flipY": false
+				"flipY": false,
+				"altText": ""
 			},
 			"parentId": "page:xw7BoCFOOi7XTHHDt32zI",
 			"index": "a1",
@@ -856,7 +857,8 @@
 				"url": "",
 				"crop": null,
 				"flipX": false,
-				"flipY": false
+				"flipY": false,
+				"altText": ""
 			},
 			"parentId": "page:X6vfxWu4pxKTJFGYhdfEX",
 			"index": "a28yT",
@@ -1186,7 +1188,8 @@
 				"url": "",
 				"crop": null,
 				"flipX": false,
-				"flipY": false
+				"flipY": false,
+				"altText": ""
 			},
 			"parentId": "page:p83Lp3z0fUXW_rn-swK2y",
 			"index": "aA8gL",
@@ -4183,7 +4186,8 @@
 				"url": "",
 				"crop": null,
 				"flipX": false,
-				"flipY": false
+				"flipY": false,
+				"altText": ""
 			},
 			"parentId": "page:page",
 			"index": "a22rK",
@@ -4845,7 +4849,8 @@
 				"url": "",
 				"crop": null,
 				"flipX": false,
-				"flipY": false
+				"flipY": false,
+				"altText": ""
 			},
 			"parentId": "page:p83Lp3z0fUXW_rn-swK2y",
 			"index": "a27f3",
@@ -6008,7 +6013,8 @@
 				"url": "",
 				"crop": null,
 				"flipX": false,
-				"flipY": false
+				"flipY": false,
+				"altText": ""
 			},
 			"parentId": "page:page",
 			"index": "a1",
@@ -6283,7 +6289,8 @@
 				"url": "",
 				"crop": null,
 				"flipX": false,
-				"flipY": false
+				"flipY": false,
+				"altText": ""
 			},
 			"parentId": "page:p83Lp3z0fUXW_rn-swK2y",
 			"index": "a1",
@@ -8138,7 +8145,8 @@
 				"url": "",
 				"crop": null,
 				"flipX": false,
-				"flipY": false
+				"flipY": false,
+				"altText": ""
 			},
 			"parentId": "page:X6vfxWu4pxKTJFGYhdfEX",
 			"index": "a1",
@@ -9567,12 +9575,10 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:0EIOMTstGWiIzBf72QAGD",
+			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:0EIOMTstGWiIzBf72QAGD"
-			],
-			"hoveredShapeId": "shape:0EIOMTstGWiIzBf72QAGD",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -10636,7 +10642,8 @@
 				"url": "",
 				"crop": null,
 				"flipX": false,
-				"flipY": false
+				"flipY": false,
+				"altText": ""
 			},
 			"parentId": "page:xw7BoCFOOi7XTHHDt32zI",
 			"index": "aRC0u",
@@ -11866,7 +11873,8 @@
 				"url": "",
 				"crop": null,
 				"flipX": false,
-				"flipY": false
+				"flipY": false,
+				"altText": ""
 			},
 			"parentId": "page:X6vfxWu4pxKTJFGYhdfEX",
 			"index": "a2kbO",
@@ -12041,7 +12049,8 @@
 				"url": "",
 				"crop": null,
 				"flipX": false,
-				"flipY": false
+				"flipY": false,
+				"altText": ""
 			},
 			"parentId": "page:UcK-arAxfLanWRri7eCB_",
 			"index": "a1",
@@ -12110,7 +12119,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 400,
+				"w": 920,
 				"h": 566
 			},
 			"insets": [
@@ -12128,7 +12137,7 @@
 			"isFocused": true,
 			"devicePixelRatio": 1.5,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": true,
+			"isHoveringCanvas": null,
 			"openMenus": [],
 			"isChangingStyle": false,
 			"isReadonly": false,
@@ -12139,9 +12148,9 @@
 			"typeName": "instance"
 		},
 		{
-			"x": 746.5885206263758,
-			"y": -125.67604370044596,
-			"z": 0.13286490572219486,
+			"x": 1423.4808405284275,
+			"y": 780.885738877616,
+			"z": 0.13491238079895335,
 			"meta": {},
 			"id": "camera:page:xw7BoCFOOi7XTHHDt32zI",
 			"typeName": "camera"
